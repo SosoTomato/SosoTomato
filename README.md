@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🐝 I’m totally new here.
+- 🧪 I’m trying out new things.
+
 <!--
 **SosoTomato/SosoTomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
